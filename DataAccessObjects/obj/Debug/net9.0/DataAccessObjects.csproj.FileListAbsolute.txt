@@ -1,0 +1,5 @@
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.AssemblyInfo.cs
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.csproj.CoreCompileInputs.cache

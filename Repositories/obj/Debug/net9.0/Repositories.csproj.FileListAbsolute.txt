@@ -1,0 +1,17 @@
+D:\Slution\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+D:\Slution\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slution\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+D:\Slution\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+D:\Slution\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Slution\ProductManagementDemo\Repositories\bin\Debug\net9.0\Repositories.deps.json
+D:\Slution\ProductManagementDemo\Repositories\bin\Debug\net9.0\Repositories.dll
+D:\Slution\ProductManagementDemo\Repositories\bin\Debug\net9.0\Repositories.pdb
+D:\Slution\ProductManagementDemo\Repositories\bin\Debug\net9.0\BusinessObjects.dll
+D:\Slution\ProductManagementDemo\Repositories\bin\Debug\net9.0\DataAccessLayer.dll
+D:\Slution\ProductManagementDemo\Repositories\bin\Debug\net9.0\BusinessObjects.pdb
+D:\Slution\ProductManagementDemo\Repositories\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\Slution\ProductManagementDemo\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+D:\Slution\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.dll
+D:\Slution\ProductManagementDemo\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+D:\Slution\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.pdb
+D:\Slution\ProductManagementDemo\Repositories\obj\Debug\net9.0\ref\Repositories.dll

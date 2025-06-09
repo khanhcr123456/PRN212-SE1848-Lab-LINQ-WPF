@@ -1,0 +1,15 @@
+D:\Slution\ProductManagementDemo\DataAccessObjects\bin\Debug\net9.0\DataAccessLayer.deps.json
+D:\Slution\ProductManagementDemo\DataAccessObjects\bin\Debug\net9.0\DataAccessLayer.dll
+D:\Slution\ProductManagementDemo\DataAccessObjects\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\Slution\ProductManagementDemo\DataAccessObjects\bin\Debug\net9.0\BusinessObjects.dll
+D:\Slution\ProductManagementDemo\DataAccessObjects\bin\Debug\net9.0\BusinessObjects.pdb
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAcce.E67BD773.Up2Date
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.dll
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\refint\DataAccessLayer.dll
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.pdb
+D:\Slution\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\ref\DataAccessLayer.dll
